@@ -1,0 +1,22 @@
+.learn-press-breadcrumb {
+  padding-top: 11px;
+  margin-bottom: 13px;
+  margin-top: 15px;
+}
+
+.section-title {
+  padding-right: 3% !important;
+  padding-left: 3% !important;
+}
+
+#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-header .section-left {
+  vertical-align: top;
+  padding-top: 3% !important;
+  padding-right: 3% !important;
+  padding-left: 3% !important;
+}
+
+#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section {
+  margin: 0;
+  padding: 0 0 0px 0;
+}
